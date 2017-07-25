@@ -1,0 +1,46 @@
+{
+  "name": "quick-badge-link",
+  "version": "1.0.0",
+  "description": "Generate links to pixel-perfect, retina-ready, fast, and consistent badges for your projects!",
+  "main": "cli.js",
+  "bin": {
+    "qbl": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeDotJS/quick-badge-link.git"
+  },
+  "keywords": [
+    "generate",
+    "badge",
+    "link",
+    "npm",
+    "packages",
+    "flat",
+    "plastic",
+    "badges",
+    "url"
+  ],
+  "dependencies": {
+    "chalk": "^2.0.1"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (http://rishigiri.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeDotJS/quick-badge-link/issues"
+  },
+  "homepage": "https://github.com/CodeDotJS/quick-badge-link#readme"
+}
