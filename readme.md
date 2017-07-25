@@ -16,7 +16,7 @@ $ npm install --global quick-badge-link
 
 ## Preview
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rishigiridotcom/rishigiri.com/a6aeb1e5887c2c5c41747a6ce1904081fd9ace1b/github/qbl.gif"></p>
 
 ## Usage
 
