@@ -43,7 +43,7 @@ console.log(`
   Styles:
 
   ${pre} ${chalk.dim(`Plastic      : ${buildLink}?style=plastic`)}
-  ${pre} ${chalk.dim(`Flast        : ${buildLink}?style=flast`)}
+  ${pre} ${chalk.dim(`Flast        : ${buildLink}?style=flat`)}
   ${pre} ${chalk.dim(`Flat-Squoare : ${buildLink}?style=flat-square`)}
   ${pre} ${chalk.dim(`Social       : ${buildLink}?style=social`)}
 
