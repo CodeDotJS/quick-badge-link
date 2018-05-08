@@ -1,6 +1,6 @@
 {
   "name": "quick-badge-link",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate links to pixel-perfect, retina-ready, fast, and consistent badges for your projects!",
   "main": "cli.js",
   "bin": {
@@ -35,7 +35,7 @@
     "xo": "*"
   },
   "xo": {
-    "esnext":false
+    "esnext": false
   },
   "author": "Rishi Giri <rushforlinux@gmail.com> (http://rishigiri.com)",
   "license": "MIT",
