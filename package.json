@@ -1,6 +1,6 @@
 {
   "name": "quick-badge-link",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate links to pixel-perfect, retina-ready, fast, and consistent badges for your projects!",
   "main": "cli.js",
   "bin": {
